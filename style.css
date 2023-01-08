@@ -1,0 +1,46 @@
+ div{
+    width: 500px;
+    height: 490px;
+    box-shadow:1px 1px 10px 2px;
+    padding: 5px;
+ }
+ figure{
+   margin-left: 15px;
+   margin-right: 15px;
+   
+ }
+ img{
+    display: block;
+    border-radius: 10px;
+    
+    width: 100%;
+ }
+ #ruppe{
+    color:rgb(53, 53, 236);
+     
+ }
+ #before{
+    margin-left: 10px;
+    color: slategray;
+   text-decoration:line-through;
+ }
+ #off{
+    margin-left: 10px;
+    padding: 5px;
+    color: aliceblue;
+    background-color: rgba(41, 246, 120, 0.964);
+    border-radius: 5px;
+ }
+ hr{
+border-style: ridge;
+    color: rgba(128, 128, 128, 0.994);
+    box-shadow: 0px 0px 1px 0px ;
+    height: 0.5px;
+    
+    text-align: left;
+    margin-left: 0;
+    width: 350px;
+ }
+ 
+ 
+ 
